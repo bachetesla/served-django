@@ -14,6 +14,6 @@ COPY . .
 RUN apt-get update \
     && apt-get install -y gcc python3-dev musl-dev netcat
 
-RUN pip install --upgrade pip && pip install  -r _prod/requirements.txt
+RUN pip install --upgrade pip && pip install  -r _prod/backend/requirements.txt
 
-ENTRYPOINT ["_prod/entrypoint.sh"]
+ENTRYPOINT ["_prod/backend/entrypoint.sh"]
