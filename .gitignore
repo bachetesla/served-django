@@ -157,3 +157,4 @@ _media/
 *.sqlite3
 .env/
 .idea/
+.volumes/

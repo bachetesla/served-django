@@ -1,0 +1,1402 @@
+[
+{
+  "model": "landing.landing",
+  "pk": 1,
+  "fields": {
+    "key": "title_banner_home",
+    "value": "درآمدتو زیادتر کن",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 2,
+  "fields": {
+    "key": "txt_banner_home",
+    "value": "میزگرد را به عنوان آژانس دیجیتال خود انتخاب کنید و با فناوری های برنده و راهکار های خلاقانه ؛ کسب و کار خود را پیشرفت دهید و بلندترین قله هارا فتح کنید",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 3,
+  "fields": {
+    "key": "btn_banner_home",
+    "value": "درآمد خودتو بیشتر کن",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 4,
+  "fields": {
+    "key": "address",
+    "value": "کرج",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 5,
+  "fields": {
+    "key": "title_menu_contact",
+    "value": "ارتباط با میزگرد",
+    "tag": "MENU"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 6,
+  "fields": {
+    "key": "title_menu_call",
+    "value": "۲۴ / ۷ به ما زنگ بزنید",
+    "tag": "MENU"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 7,
+  "fields": {
+    "key": "phone",
+    "value": "989001702111",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 8,
+  "fields": {
+    "key": "title_menu_social",
+    "value": "شبکه های اجتماعی مون",
+    "tag": "MENU"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 9,
+  "fields": {
+    "key": "psh_search_menu",
+    "value": "...جستجو",
+    "tag": "menu"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 10,
+  "fields": {
+    "key": "title_service_home",
+    "value": "چه کمکی از دستمون بر میاد؟",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 11,
+  "fields": {
+    "key": "txt_service_home",
+    "value": "راهکار های میزگرد",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 12,
+  "fields": {
+    "key": "sub_txt_service_home",
+    "value": "ما تو میزگرد تلاش کردیم که مشکلات و سختی های شما رو بشناسیم و براشون راه حل پیدا کنیم و کمکتون کنیم.",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 13,
+  "fields": {
+    "key": "btn_service_home",
+    "value": "درموردش بخون",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 14,
+  "fields": {
+    "key": "title_deliverd_project",
+    "value": "دستاورد ما",
+    "tag": "PRJCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 15,
+  "fields": {
+    "key": "txt_deliverd_project",
+    "value": "تلاش کردیم به بترین شکل این پروژه رو انجام بدیم و جلو ببریم؛ مشکلاتی که حل کردند و بهبود هایی که دادن رو براتون لیست کردیم",
+    "tag": "PRJCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 16,
+  "fields": {
+    "key": "btn_deliverd_project",
+    "value": "شما هم اقدام کنید",
+    "tag": "PRJCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 17,
+  "fields": {
+    "key": "title_cta",
+    "value": "همکاری با میزگرد",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 18,
+  "fields": {
+    "key": "txt_cta",
+    "value": "مشکلات خودتونو باما در میون بزارید و حل کردنشو بسپارید به میزگرد",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 19,
+  "fields": {
+    "key": "btn_cta",
+    "value": "تماس با میزگرد",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 20,
+  "fields": {
+    "key": "btn_case_study_home",
+    "value": "در مورد این خدمت",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 21,
+  "fields": {
+    "key": "title_about_home",
+    "value": "درباره میزگرد",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 22,
+  "fields": {
+    "key": "title_sub_about_home",
+    "value": "میزگرد؛ قابل اعتماد",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 23,
+  "fields": {
+    "key": "txt_about_home",
+    "value": "ما تو میزگرد سعی کردیم بهترین مشاوران و متخصصان حوزه دیجیتال را گرد هم بیاریم و با کمکشون مشکلاتتونو باهم حل کنیم؛ که شما با فرم با یک حرفه ای صحبت کن؛ از مشاوره رایگانمون برخوردار بشید و هم میتونین باهامون تماس بگیرین.",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 24,
+  "fields": {
+    "key": "title_talk_to_expert_home",
+    "value": "با یک حرفه ای صحبت کن",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 25,
+  "fields": {
+    "key": "name_talk_to_expert_home",
+    "value": "نام",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 26,
+  "fields": {
+    "key": "email_talk_to_expert_home",
+    "value": "ایمیل",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 27,
+  "fields": {
+    "key": "phone_talk_to_expert_home",
+    "value": "شماره تلفن",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 28,
+  "fields": {
+    "key": "btn_talk_to_expert",
+    "value": "پیام بفرستید !",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 29,
+  "fields": {
+    "key": "title_project_home",
+    "value": "پروژه های میزگرد",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 30,
+  "fields": {
+    "key": "title_sub_project_home",
+    "value": "چند تا از پروژه هایی که خیلی دوسشون داریم",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 31,
+  "fields": {
+    "key": "all_project_txt_home",
+    "value": "تمام کار ها",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 32,
+  "fields": {
+    "key": "title_counter_home",
+    "value": "میزگرد؛ آژانس دیجیتالتون",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 33,
+  "fields": {
+    "key": "title_sub_counter_home",
+    "value": "برای هدفات نقشه بکش",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 34,
+  "fields": {
+    "key": "txt_counter_home",
+    "value": "ما با کمک مشاوران و متخصص های باهوشمون؛ میتونیم رویاهاتونو رو واقعی کنیم",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 35,
+  "fields": {
+    "key": "title_kudos_home",
+    "value": "و اما بشنوید از دوستانی که بهمون اعتماد کردن",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 36,
+  "fields": {
+    "key": "title_sub_kudos_home",
+    "value": "نقش آفرینی ایده ها؛\r\n<br>\r\n اجرا کردن سخت ترین سلیقه ها",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 37,
+  "fields": {
+    "key": "txt_kudos_home",
+    "value": "تو این سالا؛ خیلیا بهمون اعتماد کردن و تبدیل به بتهرین دوست هامون شدن؛ ما هم ازشون خواستیم برامون درمورد میزگرد بگن و با اجازه خودشون بزاریمش اینجا",
+    "tag": "NULL"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 38,
+  "fields": {
+    "key": "title_customers_home",
+    "value": "دوستان ما",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 39,
+  "fields": {
+    "key": "title_sub_customers_home",
+    "value": "ممنون که بهمون اعتماد کردین",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 40,
+  "fields": {
+    "key": "txt_customers_home",
+    "value": "خیلی خوشحالیم که تونستیم همکار و دوستتون باشیم",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 41,
+  "fields": {
+    "key": "title_service",
+    "value": "راهکار های میزگرد",
+    "tag": "SRVIC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 42,
+  "fields": {
+    "key": "txt_service",
+    "value": "ما در میزگرد تلاش میکنیم که بهترین راهکار هارو به شما ارایه بکنیم و با متخصص ها و مشاوران ماهرمون به بهترین شکل مشکلاتتونو حل بکنیم",
+    "tag": "SRVIC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 43,
+  "fields": {
+    "key": "title_service_service",
+    "value": "خدمت",
+    "tag": "SRVIC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 44,
+  "fields": {
+    "key": "btn_service_service",
+    "value": "بیشتر درموردش بخون",
+    "tag": "SRVIC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 45,
+  "fields": {
+    "key": "title_projects",
+    "value": "پروژه های میزگرد",
+    "tag": "SRVIC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 46,
+  "fields": {
+    "key": "txt_projects",
+    "value": "پروژه های ما بچه های ما هستن و عاشق دیدن بزرگ شدنشون هستیم و براشون کم نمیزاریم؛ چند تا از اونایی که خیلی دوسشون داریمو براتون گذاشتیم",
+    "tag": "SRVIC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 47,
+  "fields": {
+    "key": "title_about",
+    "value": "میزگرد؛ باور یک رویا",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 48,
+  "fields": {
+    "key": "txt_about",
+    "value": "میزگرد سال ۹۷ به دنیا اومد و ما سعی کردیم تو این سال ها خیلی مراقب کسب و کارایی که بهمون اعتماد کردن باشیم و با تلاش همه بچه ها و لطف خدا تونستیم تا الان یکی از بهترینا باشیم",
+    "tag": "NULL"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 49,
+  "fields": {
+    "key": "title_about_about",
+    "value": "تعریف از خود نباشه",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 50,
+  "fields": {
+    "key": "title_sub_about_about",
+    "value": "میزگرد؛ \r\n<b>خلاقیت</b>\r\n و\r\n<b>تجربه</b>",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 51,
+  "fields": {
+    "key": "txt_about_about",
+    "value": "تمام تلاش میزگرد تو اینه که با جدیدترین ابزارا و بهترین افراد؛ تو زمان مناسب؛ بهترین کار رو ارايه کنه",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 52,
+  "fields": {
+    "key": "counter_experience_about_about",
+    "value": "5",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 53,
+  "fields": {
+    "key": "txt_experience_about_about",
+    "value": "سال در بازار",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 54,
+  "fields": {
+    "key": "txt_project_about_about",
+    "value": "پروژه های موفق",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 55,
+  "fields": {
+    "key": "title_team_about",
+    "value": "میزگرد لبه نداره",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 56,
+  "fields": {
+    "key": "title_sub_team_about",
+    "value": "ما یک تیم و یک خانواده هستیم",
+    "tag": "ABOUT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 57,
+  "fields": {
+    "key": "txt_team_about",
+    "value": "تو تیم میزگرد همه باهم برابرن و این قانون اوله؛ و اینجا اول فان بعد کاره؛ برای همین همیشه کار کردن خوش میگذره !‌\r\nما همیشه دوست داریم با خوش سلیقه ها و باهوشا کار کنیم و منتظرت هستیم",
+    "tag": "NULL"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 58,
+  "fields": {
+    "key": "title_contact",
+    "value": "تماس با میزگرد",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 59,
+  "fields": {
+    "key": "txt_contact",
+    "value": "از راه های زیر میتونی با میزگرد در ارتباط باشی و مشکلاتتو در میون بزاری تا باهم حلشون کنیم",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 60,
+  "fields": {
+    "key": "title_phone_about",
+    "value": "تلفن کن!",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 61,
+  "fields": {
+    "key": "txt_phone_about",
+    "value": "بیست و چهار ساعت روز؛ هفت روز هفته",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 62,
+  "fields": {
+    "key": "email",
+    "value": "info@theroundtable.ir",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 63,
+  "fields": {
+    "key": "title_email_about",
+    "value": "ایمیل کن!",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 64,
+  "fields": {
+    "key": "txt_email_about",
+    "value": "سریع جوابتو میدیم",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 65,
+  "fields": {
+    "key": "title_office_contact",
+    "value": "همه دعوتین",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 66,
+  "fields": {
+    "key": "txt_office_contact",
+    "value": "حضوری بیاید پیشمون",
+    "tag": "CNTCT"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 67,
+  "fields": {
+    "key": "office",
+    "value": "کرج",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 68,
+  "fields": {
+    "key": "office_address",
+    "value": "کرج",
+    "tag": "GEN"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 69,
+  "fields": {
+    "key": "title_subscribe_footer",
+    "value": "زود تر از همه بدون",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 70,
+  "fields": {
+    "key": "txt_subscribe_footer",
+    "value": "با عضو شدن در باشگاه میزگرد؛ زود تر از همه خبررارو بدون و عقب نمون",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 71,
+  "fields": {
+    "key": "btn_subscribe_footer",
+    "value": "اضافه شو",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 72,
+  "fields": {
+    "key": "email_subscribe_footer",
+    "value": "ایمیل",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 73,
+  "fields": {
+    "key": "title_service_footer",
+    "value": "سرویس ها",
+    "tag": "SERVC"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 74,
+  "fields": {
+    "key": "title_support_footer",
+    "value": "پشتیبانی",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 75,
+  "fields": {
+    "key": "title_resources_footer",
+    "value": "منابع",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 76,
+  "fields": {
+    "key": "copyright_footer",
+    "value": "© 2022 تمام حقوق مال میزگرده و هرگونه کپی برداری در معرفت همکاری نمیگنجه",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 77,
+  "fields": {
+    "key": "title_blog",
+    "value": "بلاگ",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 78,
+  "fields": {
+    "key": "title_time_to_read_blog",
+    "value": "دقیقه",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 79,
+  "fields": {
+    "key": "btn_read_more_blog",
+    "value": "بیشتر بخوانید",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 80,
+  "fields": {
+    "key": "txt_serach_blog",
+    "value": "جستجو",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 81,
+  "fields": {
+    "key": "title_category_blog",
+    "value": "دسته بندی ها",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 82,
+  "fields": {
+    "key": "title_fallow_social_blog",
+    "value": "سوشال",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 83,
+  "fields": {
+    "key": "title_latest_post_blog",
+    "value": "پست های اخیر",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 84,
+  "fields": {
+    "key": "title_comment_blog",
+    "value": "کامنت ها",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 85,
+  "fields": {
+    "key": "input_email_blog",
+    "value": "ایمیل",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 86,
+  "fields": {
+    "key": "input_name_blog",
+    "value": "نام",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 87,
+  "fields": {
+    "key": "input_comment_blog",
+    "value": "کامنت",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 88,
+  "fields": {
+    "key": "title_comment_blog",
+    "value": "کامنت بگذارید",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 89,
+  "fields": {
+    "key": "btn_comment_blog",
+    "value": "کامنت!",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 90,
+  "fields": {
+    "key": "title_related_post",
+    "value": "پست های مرتبط",
+    "tag": "BLG"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 91,
+  "fields": {
+    "key": "title_blog_home",
+    "value": "آخرین اخبار",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 92,
+  "fields": {
+    "key": "title_txt_blog_home",
+    "value": "چه خبره؟",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 93,
+  "fields": {
+    "key": "txt_blog_home",
+    "value": "آخرین اخبار روز",
+    "tag": "HOME"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 124,
+  "fields": {
+    "key": "title_login",
+    "value": "👋 به میزگرد خوش اومدین",
+    "tag": "AUTH"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 125,
+  "fields": {
+    "key": "txt_login",
+    "value": "لطفا وارد شوید تا به داشبورد دسترسی داشه باشید",
+    "tag": "AUTH"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 126,
+  "fields": {
+    "key": "subtitle_service_project",
+    "value": "پروژه هایی از این دست",
+    "tag": "SRVCE"
+  }
+},
+{
+  "model": "landing.landing",
+  "pk": 127,
+  "fields": {
+    "key": "title_service_project",
+    "value": "چند تا از پروژه هایی که انجام شدن",
+    "tag": "NULL"
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 1,
+  "fields": {
+    "txt": "خانه",
+    "path_name": "home",
+    "blank": false
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 2,
+  "fields": {
+    "txt": "خدمات",
+    "path_name": "services",
+    "blank": false
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 3,
+  "fields": {
+    "txt": "پروژه ها",
+    "path_name": "projects",
+    "blank": false
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 4,
+  "fields": {
+    "txt": "داستان ما",
+    "path_name": "about_us",
+    "blank": false
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 5,
+  "fields": {
+    "txt": "تماس با ما",
+    "path_name": "contact_us",
+    "blank": false
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 6,
+  "fields": {
+    "txt": "بلاگ",
+    "path_name": "blog",
+    "blank": true
+  }
+},
+{
+  "model": "landing.menu",
+  "pk": 7,
+  "fields": {
+    "txt": "ورود",
+    "path_name": "login",
+    "blank": true
+  }
+},
+{
+  "model": "landing.social",
+  "pk": 1,
+  "fields": {
+    "name": "Instagram",
+    "icon": "fab fa-instagram",
+    "link": "https://www.instagram.com/_ribrea/",
+    "color": "RED"
+  }
+},
+{
+  "model": "landing.customerl",
+  "pk": 3,
+  "fields": {
+    "name": "میزگرد",
+    "logo": "customers/0000000.png",
+    "website": "https://google.com"
+  }
+},
+{
+  "model": "landing.kudos",
+  "pk": 3,
+  "fields": {
+    "customer": 3,
+    "role": "CEO",
+    "name": "Exbito",
+    "img": "customers/Screenshot_from_2021-09-18_23-32-33.png",
+    "txt": "asgpj;jgasglgk sag asgk;algk;ak g ;agk ;algka;lgka;kg;lakg;k alskg;alg"
+  }
+},
+{
+  "model": "services.servicestype",
+  "pk": 37,
+  "fields": {
+    "name": "نرم افزار"
+  }
+},
+{
+  "model": "services.servicestype",
+  "pk": 38,
+  "fields": {
+    "name": "شبکه های اجتماعی"
+  }
+},
+{
+  "model": "services.servicestype",
+  "pk": 39,
+  "fields": {
+    "name": "مارکتینگ"
+  }
+},
+{
+  "model": "services.servicestype",
+  "pk": 40,
+  "fields": {
+    "name": "امنیت"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 9,
+  "fields": {
+    "type": 38,
+    "name": "تولید محتوا",
+    "description": "درست کردن محتوا های ویدیویی؛ تصویری و متنی همش پای میزگرد\r\n<br><br>\r\nهمونطور که میدونید؛ تو دنیای امروز؛ مهم ترین بخش محتوا است که موجب پیشرفت شما در فضای دیجیتال میشه\r\n<br>\r\nما توتیم محتوامون متخصصایی رو داریم که کارشون درست کردن بهترین محتوا برای شماست که با خیال راحت تو پلتفرمتون استفاده کنید و بیشترین بازدهی رو داشته باشید",
+    "content": "درست کردن محتوا های ویدیویی؛ تصویری و متنی همش پای میزگرد",
+    "img": "services/banner-thumb-1_gjssaDd.png",
+    "icon": "services/marketing_-_small.png",
+    "case_study": true
+  }
+},
+{
+  "model": "services.service",
+  "pk": 10,
+  "fields": {
+    "type": 38,
+    "name": "مدیریت شبکه های اجتماعی",
+    "description": "این روزا کسی نیست که تو شبکه های اجتماعی فعالیت نداشته باشه؛ از طرفی یکی از بهترین منابع برای درآمد و معرفی کسب و کارتون به بقیه است\r\n<br>\r\nمیزگرد با تجربه  و شناختی که تو این سالا کسب کرده میتونه با توجه به الگوریتم ها و درخواست های شبکه اجتماعی هایی مثل اینستاگرام؛ تویتتر؛ \r\nلینکدین؛ یوتیوب و تیک تاک فعالیت کنه و تو رشد و درآمد کمکتون کنه\r\n<br>\r\nما تو میزگرد تموم تلاشمون بر اینه که با شبکه های اجتماعی همگام باشیم و همیشه به روزترین باشیم",
+    "content": "مدیریت شبکه های اجتماعیتون با میزگرد",
+    "img": "services/ig-banner_OoeJ9FX.png",
+    "icon": "services/icon-42_xDAtPOx.png",
+    "case_study": true
+  }
+},
+{
+  "model": "services.service",
+  "pk": 11,
+  "fields": {
+    "type": 37,
+    "name": "طراحی سایت و نرم افزار های وب",
+    "description": "امروزه با توجه به پیشرفت تکنولوژی و اومدن شرکت هایی که پلتفرم های ابری (کلاد بیس) ارایه میکنن؛ هزینه های وب بسیار کم شده و خیلی از نرم افزار ها به سمت وب حرکت کردند\r\n<br>\r\nتیم فنی میزگرد؛ با تجربه چندین ساله و فعالیت به روز در طراحی و معماری نرم افزار؛ به کمک شما میاد تا رویا ها و هدف هاتونو واقعی کنه",
+    "content": "طراحی نرم افزار هاتون با میزگرد",
+    "img": "services/chat-group.png",
+    "icon": "services/icon-37_bcifQaf.png",
+    "case_study": false
+  }
+},
+{
+  "model": "services.service",
+  "pk": 12,
+  "fields": {
+    "type": 37,
+    "name": "خدمات دیپلوی و راه اندازی",
+    "description": "یکی از مشکلات بزرگ امروزه؛ هزینه های دیپلوی یا راه اندازی نرم افزار یا سایت ها هستش که میزگرد با تخصص و مشاورانش سعی میکنه این راهو براتون آسون تر و کم هزینه تر بکنه",
+    "content": "دیپلوی و را اندازی با میزگرد",
+    "img": "services/banner-shape-1.png",
+    "icon": "services/icon-28.png",
+    "case_study": false
+  }
+},
+{
+  "model": "services.service",
+  "pk": 13,
+  "fields": {
+    "type": 40,
+    "name": "امنیت نرم افزار",
+    "description": "با فراگیر شدن علم تو این چند سال؛ و پیشرفت و اضافه شدن افراد با سواد در حوزه نرم افزار؛ امنیت بحث مهمی هستش که تو میزگرد ما تلاش میکنیم با تجربه و به روز بودنمون این مشکل رو براتون حل کنیم و شما رو در مقابل حملات مقاوم تر کنیم  \r\n💪\r\nو\r\n<br>\r\nتیم امنیتی میزگرد با تجربه چندین ساله به کمکتون میاد تا دیگه به مشکلات امنیتی و آدمای بد نخورید\r\n<br>\r\nهمیشه گفتن پیشگیری بهتر از درمانه؛ پس قبل از این که به مشکل بخورید؛ با میزگرد همراه باشید",
+    "content": "امینت بحث مهمی در نرم افزار امروز؛ همراه با میزگرد",
+    "img": "services/chat-group_Y7ppEPK.png",
+    "icon": "services/icon-47.png",
+    "case_study": false
+  }
+},
+{
+  "model": "services.service",
+  "pk": 14,
+  "fields": {
+    "type": 40,
+    "name": "امنیت شبکه های اجتماعی",
+    "description": "بحث داغی که این روز ها میشنوید؛ هک شدن شبکه های اجتماعی از قبیل اینستاگرام و دیگر شبکه های اجتماعی هستش که باعث ازبین رفتن زحمات شما میشه\r\n<br>\r\nتیم میزگرد با تجربه ای که داره در کنار شماست تا مراقب حساب های شما و زحمات شما باشه.",
+    "content": "امنیت شبکه های اجتماعیتون پای میزگرد",
+    "img": "services/banner-thumb-3.png",
+    "icon": "services/icon-40.png",
+    "case_study": false
+  }
+},
+{
+  "model": "services.service",
+  "pk": 15,
+  "fields": {
+    "type": 39,
+    "name": "دیجیتال مارکتینگ",
+    "description": "با فراگیر شدن اینترنت در دنیا؛ مارکتینگ توی دنیای اینترنت یا دیجیتال مارکتینگ خیلی بحث مهمی شده است\r\n<br>\r\nتیم مارکتینگ میزگرد با تجربه چندین ساله خود در فضای دیجیتال به کمکتون میاد تا مشکلاتتونو حل کنه و با ایده های نوآورانه فروشتونو بیشتر کنه",
+    "content": "مارکتینگ و فروش دیجیتال؛ با میزگرد",
+    "img": "services/banner-thumb-6_4vIpSVD.png",
+    "icon": "services/icon-3.png",
+    "case_study": false
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 5,
+  "fields": {
+    "service": 9,
+    "step": 1,
+    "title": "شناخت و بررسی مخاطبان و سلیقه آنها",
+    "description": "اولین و مهم ترین کار شناخت مخاطبانتون هست که میزگرد با تجربه ای که داره به بهترین شکل میتونه پیداش کنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 6,
+  "fields": {
+    "service": 9,
+    "step": 2,
+    "title": "تولید محتوا",
+    "description": "درست کردن محتوا؛ضبط کردن؛ نوشتن؛ و ادیت کردن محتوا ها در این مرحله انجام میشه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 7,
+  "fields": {
+    "service": 9,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 8,
+  "fields": {
+    "service": 9,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "رفع ایراد ها؛ تغییرات؛ و پشتیبانی محتوا تو این بخش انجام میشه و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 9,
+  "fields": {
+    "service": 10,
+    "step": 1,
+    "title": "بررسی کسب و کار و بازار هدف",
+    "description": "جستجوی بازار هدف اولین و مهم ترین مرحله هستش؛ زمانی که مخاطبانتون بیشترین تعامل رو با شبکه های اجتماعی دارند؛ و پارامتر های دیگه که باعث میشه بیشترین بازخورد رو داشته باشید"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 10,
+  "fields": {
+    "service": 10,
+    "step": 2,
+    "title": "بررسی و کنترل کیفیت محتوا",
+    "description": "یکی دیگه از مهم ترین بخشا مطمین شدن از با کیفیت بودن محتوا هستش که توسط میزگرد انجام میشه و باعث اطمینان بیشتر میشه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 11,
+  "fields": {
+    "service": 10,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 12,
+  "fields": {
+    "service": 10,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "رفع ایراد ها؛ تغییرات؛ و پشتیبانی تو این مرحله انجام میشه و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 13,
+  "fields": {
+    "service": 11,
+    "step": 1,
+    "title": "بررسی بیزنس لاجیک و ایده شما",
+    "description": "اولین و مهم ترین بخش بررسی بیزنس لاجیک و ایده شماست که مطمین بشیم داریم کارو درست انجام میدیم و درست متوجه ایده خلاقانه تون شدیم"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 14,
+  "fields": {
+    "service": 11,
+    "step": 2,
+    "title": "طراحی و ارایه دمو",
+    "description": "ارایه دمو یکی از مهم ترین بخشای طراحی نرم افزار است که بتوانید با نرم افزار تعامل داشته و ایده هاتونو بهش  اضافه کنید"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 15,
+  "fields": {
+    "service": 11,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 16,
+  "fields": {
+    "service": 11,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "رفع ایراد ها؛ تغییرات؛ و پشتیبانی تو این مرحله انجام میشه و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 17,
+  "fields": {
+    "service": 12,
+    "step": 1,
+    "title": "شناخت و بررسی نرم افزار شما",
+    "description": "مهم ترین بخش شناخت نرم افزار و تعداد مشتری های شما هستش که بتونیم بهترین پیشنهاد رو بهتون بدیم"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 18,
+  "fields": {
+    "service": 12,
+    "step": 2,
+    "title": "انجام دیپلوی شما",
+    "description": "بارگزاری نرم افزار شما زود تر از همیشه؛ همراه با بیشترین پایداری و مهم تر از همه قابل تغییر و خودکار کردن"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 19,
+  "fields": {
+    "service": 12,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 20,
+  "fields": {
+    "service": 12,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "رفع ایراد ها؛ تغییرات؛ و پشتیبانی تو این مرحله انجام میشه و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 21,
+  "fields": {
+    "service": 13,
+    "step": 1,
+    "title": "بررسی نرم افزار و خطرات",
+    "description": "بررسی خطرات و مشکلات  و باگ های نرم افزار که مهم ترین عوامل نفوذ هستند مهم ترین مرحله هستش"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 22,
+  "fields": {
+    "service": 13,
+    "step": 2,
+    "title": "پیشنهاد و انجام فعالیت برای جلوگیری",
+    "description": "همیشه گفتن پیشگیری بهتر از درمانه؛ پس قبل از این که به مشکل بخورید؛ ما بهتون پیشنهاد انجام فعالیت هایی برای افزایش امنیت بهتون میدیم"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 23,
+  "fields": {
+    "service": 13,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 24,
+  "fields": {
+    "service": 13,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "میزگرد تا تهش باهاتونه و مراقبتون هست که به مشکل نخورید که  و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 25,
+  "fields": {
+    "service": 14,
+    "step": 1,
+    "title": "بررسی حساب شما",
+    "description": "بررسی حساب شما و پیدا کردن مشکلات امنیتی مهم ترین بخش هستش"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 26,
+  "fields": {
+    "service": 14,
+    "step": 2,
+    "title": "انجام عملیات مقاوم سازی",
+    "description": "مقاوم سازی حساب شما در مقابل حملات ؛ یکی دیگه از مهم ترین بخش ها هستش"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 27,
+  "fields": {
+    "service": 14,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 28,
+  "fields": {
+    "service": 14,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "رفع ایراد ها؛ تغییرات؛ و پشتیبانی تو این مرحله انجام میشه و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 29,
+  "fields": {
+    "service": 15,
+    "step": 1,
+    "title": "بررسی کسب و کار و بازار هدف",
+    "description": "مهم ترین بخش و موضوعی که  وجود داره شناخت کسب و کار شما و بازار هدف هستش"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 30,
+  "fields": {
+    "service": 15,
+    "step": 2,
+    "title": "انجام فعالیت های مارکتینگ و تبلیغات",
+    "description": "تبلیغات؛ یکی از مهم ترین بخش و دومین مرحله پس از شناخت فعالیت های شما است که بتوانیم افراد علاقه مند را جذب کسب و کارتون بکنیم"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 31,
+  "fields": {
+    "service": 15,
+    "step": 3,
+    "title": "تست",
+    "description": "همه چی توی میزگرد تست میشه؛ تست مهم ترین بخش مطمين شدن و تضمین دادنه"
+  }
+},
+{
+  "model": "services.servicesstep",
+  "pk": 32,
+  "fields": {
+    "service": 15,
+    "step": 4,
+    "title": "نگه داری و پشتیبانی",
+    "description": "رفع ایراد ها؛ تغییرات؛ و پشتیبانی تو این مرحله انجام میشه و یکی از بزرگترین مزیت های میزگرده"
+  }
+},
+{
+  "model": "projects.project",
+  "pk": 5,
+  "fields": {
+    "name": "نرم افزار کافه چی",
+    "description": "نرم افزار کافه چی از کافه باز بودن افراد تیم پیدا شد و با مشکلاتی که نرم افزار های مدیریت کافه رستوران ها داشتن؛ تصمیم گرفتیم که خودمون دست به کار بشیم و این مشکلاتو حل کنیم",
+    "image": "projects/project-5.png",
+    "video": "۰",
+    "video_cover": "۰",
+    "type": [
+      40,
+      37
+    ]
+  }
+},
+{
+  "model": "projects.projectdeliver",
+  "pk": 4,
+  "fields": {
+    "project": 5,
+    "icon": "fa fa-check",
+    "title": "ساده شدن کار ها",
+    "txt": "با کافه چی کارا تو کافه ها ساده تر شده"
+  }
+},
+{
+  "model": "projects.projectdeliver",
+  "pk": 5,
+  "fields": {
+    "project": 5,
+    "icon": "fa fa-check",
+    "title": "بهبود عملکرد کافه ها",
+    "txt": "با کافه چی خیلی از کارا جلو افتاده و کیفیت ها بهتر شده"
+  }
+}
+]
