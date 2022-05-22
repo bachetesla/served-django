@@ -1,5 +1,6 @@
 # Application
-APP_NAME="Application"
+APP_NAME="trt"
+
 
 
 # Django
